@@ -1,0 +1,1 @@
+src folder has been deleted from the repo, from the local machine only the contents of the src folder will be directly uploaded to the repo for easy backups, nothing else should be uploaded from here on out in order to make it easier for tracking
